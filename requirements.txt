@@ -1,4 +1,4 @@
-tensorflow
-pandas
 streamlit
+pandas
 pickle
+tensorflow
